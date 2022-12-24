@@ -2,4 +2,4 @@ The goal for our program is to understand how different features of songs potent
 
 - PCA graph: https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/text_file/file/371905795/final_spotify_pca_plot.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGIENPBVZV37ZJPA%2F20221224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221224T225107Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd9882b53b649345e7ded64ad32938525212c1f71f62a5347142ee25a52f4e42
 
-- Presentation Link: https://drive.google.com/file/d/1rsjBJCFuHStetRRo9SgogCGMg19GN6fy/view?usp=sharing
+- Video Presentation: https://drive.google.com/file/d/1rsjBJCFuHStetRRo9SgogCGMg19GN6fy/view?usp=sharing
